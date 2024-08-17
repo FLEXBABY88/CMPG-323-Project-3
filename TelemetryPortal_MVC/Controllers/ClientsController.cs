@@ -7,22 +7,27 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using TelemetryPortal_MVC.Data;
 using TelemetryPortal_MVC.Models;
+using TelemetryPortal_MVC.Repository;
 
 namespace TelemetryPortal_MVC.Controllers
 {
     public class ClientsController : Controller
     {
         private readonly TechtrendsContext _context;
-
-        public ClientsController(TechtrendsContext context)
+        private readonly IClientRepository _clientRepository;
+       
+        public ClientsController(TechtrendsContext context,IClientRepository clientRepository)
         {
             _context = context;
+            _clientRepository = clientRepository;
         }
+      
 
         // GET: Clients
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Clients.ToListAsync());
+            var results = _clientRepository.GetAll(); 
+            return View(results);
         }
 
         // GET: Clients/Details/5
