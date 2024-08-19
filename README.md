@@ -1,4 +1,4 @@
-##cmpg-323-Project-3
+# cmpg-323-Project-3
 
 # Introduction
 This project involves upgrading an existing ASP.NET Core MVC web application by improving its architecture, implementing solid coding principles, and integrating design patterns tailored to the specific needs of the project. The objective is to create a more scalable, maintainable, and high-quality application.
@@ -11,7 +11,7 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - Apply best practices: Implement coding principles that promote maintainability, scalability, and security throughout the project.
 - Incorporate design patterns: Utilize appropriate design patterns to enhance the application's architecture, ensuring it meets the required standards for software development.
 
-# Here is a table outlining the goals of the project:
+## Here is a table outlining the goals of the project:
 | Goal      | Description|
 |-----------|------------ | 
 |Enhance the Existing Web Application| Improve and expand the functionality of the web application, focusing on CRUD operations.|
