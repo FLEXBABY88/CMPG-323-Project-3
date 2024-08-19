@@ -12,7 +12,7 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - **Incorporate design patterns: Utilize appropriate design patterns to enhance the application's architecture, ensuring it meets the required standards for software development.
 
 # Here is a table outlining the goals of the project:
-| Goal      | Description|
+| Goal      | Description||
 |-----------|------------ | 
 |Enhancement and Improvement| Elevate the existing web application by implementing enhancements that align with the project's requirements.|
 |Architectural Understanding| Gain a deep understanding of architectural patterns and apply them effectively to the existing codebase.|
