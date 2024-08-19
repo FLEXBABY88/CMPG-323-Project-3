@@ -32,8 +32,7 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - Functional requirements: The system must perform CRUD operations on project and client data, ensuring that these operations are secure and reliable.
 - Non-functional requirements: The application should adhere to best practices concerning performance, scalability, and security. The code should be organized to facilitate easy maintenance and updates in the future.
 
-# Usage of the project
-
+# User Account Creation 
 + When the application is launched, users are greeted with a welcome screen or directed to the home page. This page presents various options for exploration, as well as the ability to log in or register a new account.
 + ## To register a new account, follow these steps:
 1. Navigate to the home page of the application.
@@ -44,7 +43,7 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - Upon successful registration you can log in to the application using your newly created credentials.
   - In the login process, you may notice a "Remember Me" checkbox. By selecting this option, you instruct the application to remember your username or email address and password for future sessions, alleviating the need to re-enter this information every time you visit the website. However, it is recommended to exercise caution when using this feature, especially when accessing the application from shared or public devices.
        
-
+# Usage of the project 
 ## Project management: 
 - Users can create, read, update, and delete project data, including details such as names, descriptions, statuses, start/end dates, and assigned clients.
 ## Client management:
