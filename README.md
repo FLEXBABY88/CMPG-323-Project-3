@@ -41,8 +41,8 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 3. Enter the required registration information, such as your email address and password.
 4. Verify that all information is accurately entered.
 5. Click the "Register" button to complete the account creation process.
-   - Upon successful registration you can log in to the application using your newly created credentials.
-     - In the login process, you may notice a "Remember Me" checkbox. By selecting this option, you instruct the application to remember your username or email address and password for future sessions, alleviating the need to re-enter this information every time you visit the website. However, it is recommended to exercise caution when using this feature, especially when accessing the application from shared or public devices.
+- Upon successful registration you can log in to the application using your newly created credentials.
+  - In the login process, you may notice a "Remember Me" checkbox. By selecting this option, you instruct the application to remember your username or email address and password for future sessions, alleviating the need to re-enter this information every time you visit the website. However, it is recommended to exercise caution when using this feature, especially when accessing the application from shared or public devices.
        
 
 ## Project management: 
