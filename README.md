@@ -12,11 +12,15 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - **Incorporate design patterns: Utilize appropriate design patterns to enhance the application's architecture, ensuring it meets the required standards for software development.
 
 # Here is a table outlining the goals of the project:
-| Goal      | Description||
+| Goal      | Description|
 |-----------|------------ | 
-|Enhancement and Improvement| Elevate the existing web application by implementing enhancements that align with the project's requirements.|
-|Architectural Understanding| Gain a deep understanding of architectural patterns and apply them effectively to the existing codebase.|
-|Coding Principles| Follow best coding practices and principles to ensure code quality, maintainability, and readability.|
-|Design Patterns| Implement design patterns that are appropriate for the project, ensuring scalability and robustness.|
+|Enhance the Existing Web Application| Improve and expand the functionality of the web application, focusing on CRUD operations.|
+|Understand and Apply Architectural Patterns| Gain a deep understanding of the architecture and apply patterns for scalability and maintainability.|
+|Implement Best Coding Practices| Apply clean code principles and SOLID design to improve the quality of the code.|
+|Incorporate Design Patterns| Use design patterns like Repository, Dependency Injection, etc., for system robustness.|
+|Improve Application Security| Ensure proper authentication and authorization mechanisms, potentially using JWT. |
+|Optimize for Performance and Scalability| Enhance performance and scalability to handle growing data and user loads efficiently.|
+|Leverage Cloud Technologies (Azure) | Utilize Azure services for deployment, management, and scalability of the application.|
+|Provide a Seamless User Experience | Ensure the application is user-friendly, responsive, and provides a smooth experience.|
 
 
