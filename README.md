@@ -43,18 +43,18 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - Upon successful registration you can log in to the application using your newly created credentials.
   - In the login process, you may notice a "Remember Me" checkbox. By selecting this option, you instruct the application to remember your username or email address and password for future sessions, alleviating the need to re-enter this information every time you visit the website. However, it is recommended to exercise caution when using this feature, especially when accessing the application from shared or public devices.
        
-# Usage of the project 
-## Project management: 
+## Usage of the project 
+### 1.Project management: 
 - Users can create, read, update, and delete project data, including details such as names, descriptions, statuses, start/end dates, and assigned clients.
-## Client management:
+### 2.Client management:
 - Users can manage client information, including names, contact details, and associated projects. They can add new clients, update information, or remove clients when needed.
-## Tracking and reporting:
+### 3.Tracking and reporting:
 - The application allows users to track active projects and clients, generate reports or visualizations to aid in decision-making related to resource allocation, deadlines, and project performance.
-## User authentication and authorization:
+### 4.User authentication and authorization:
 - Secure login mechanisms are implemented, possibly using JWT authentication.
-## Scalable Deployment:
+### 5.Scalable Deployment:
 - The application will be deployed on Azure, making it easily accessible from anywhere and ensuring that it can handle an increasing number of users or data entries as the organization grows.
-## Integration with Azure Cloud Services:
+### 6.Integration with Azure Cloud Services:
 - The project can integrate with Azure databases, storage, and other services, allowing users to manage their data securely and at scale. This cloud integration offers flexibility in data handling and application management.
-## Enhanced User Experience:
+### 7.Enhanced User Experience:
 - A seamless, user-friendly interface will help users efficiently manage projects and clients with minimal training or prior experience with the system.
