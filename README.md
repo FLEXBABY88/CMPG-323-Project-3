@@ -32,9 +32,9 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - Functional requirements: The system must perform CRUD operations on project and client data, ensuring that these operations are secure and reliable.
 - Non-functional requirements: The application should adhere to best practices concerning performance, scalability, and security. The code should be organized to facilitate easy maintenance and updates in the future.
 
-# User Account Creation 
+## User Account Creation 
 + When the application is launched, users are greeted with a welcome screen or directed to the home page. This page presents various options for exploration, as well as the ability to log in or register a new account.
-+ ## To register a new account, follow these steps:
++ ### To register a new account, follow these steps:
 1. Navigate to the home page of the application.
 2. Locate and click the "Register" option.
 3. Enter the required registration information, such as your email address and password.
