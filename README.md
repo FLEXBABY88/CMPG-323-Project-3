@@ -6,10 +6,10 @@ This project involves upgrading an existing ASP.NET Core MVC web application by 
 The application provides CRUD (Create, Read, Update, Delete) capabilities for project and client data, offering a comprehensive and scalable solution for handling business activities.
 
 ## Key Objectives
-- **Understand the existing architecture: Get a thorough understanding of the current codebase, including its structure, data flow, and technologies used.
-- **Enhance the application: Add new features or improve existing functionality to increase the application's capabilities.
-- **Apply best practices: Implement coding principles that promote maintainability, scalability, and security throughout the project.
-- **Incorporate design patterns: Utilize appropriate design patterns to enhance the application's architecture, ensuring it meets the required standards for software development.
+- Understand the existing architecture: Get a thorough understanding of the current codebase, including its structure, data flow, and technologies used.
+- Enhance the application: Add new features or improve existing functionality to increase the application's capabilities.
+- Apply best practices: Implement coding principles that promote maintainability, scalability, and security throughout the project.
+- Incorporate design patterns: Utilize appropriate design patterns to enhance the application's architecture, ensuring it meets the required standards for software development.
 
 # Here is a table outlining the goals of the project:
 | Goal      | Description|
