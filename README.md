@@ -2,7 +2,7 @@
 # Table of Content
 1. [Introduction](#Introduction)
 2. [Link to Project](#Link)
-3. [Key Objectives](#Objectives)
+3. [Key Objectives](#Objectives) 
 4. [Project Structure](#Architecture)
 5. [User Account Creation](#Activation)
 6. [Application Use](#Usage)
@@ -72,3 +72,5 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - The project can integrate with Azure databases, storage, and other services, allowing users to manage their data securely and at scale. This cloud integration offers flexibility in data handling and application management.
 ### 7.Enhanced User Experience:
 - A seamless, user-friendly interface will help users efficiently manage projects and clients with minimal training or prior experience with the system.
+
+# Reference list
