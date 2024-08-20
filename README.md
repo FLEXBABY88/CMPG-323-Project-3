@@ -2,7 +2,12 @@
 
 # Introduction
 This project involves upgrading an existing ASP.NET Core MVC web application by improving its architecture, implementing solid coding principles, and integrating design patterns tailored to the specific needs of the project. The objective is to create a more scalable, maintainable, and high-quality application.
- 
+
+
+
+
+# Link
+Access at: [TelemetryPortal_MVC](https://42019222api20240812160846.azurewebsites.net)
 The application provides CRUD (Create, Read, Update, Delete) capabilities for project and client data, offering a comprehensive and scalable solution for handling business activities.
 
 ## Key Objectives
