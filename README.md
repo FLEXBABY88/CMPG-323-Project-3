@@ -74,4 +74,4 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - A seamless, user-friendly interface will help users efficiently manage projects and clients with minimal training or prior experience with the system.
 
 # Reference list
-You can download the project report from [this link](https://github.com/FLEXBABY88/CMPG-323-Project-3/blob/master/References.txt).
+You can view the references from this link [References](https://github.com/FLEXBABY88/CMPG-323-Project-3/blob/master/References.txt).
