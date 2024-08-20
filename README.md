@@ -3,7 +3,7 @@
 1. [Introduction](#Introduction)
 2. [Link to Project](#Link)
 3. [Key Objectives](#Objectives)
-4. [Project Documentation](#documentation)
+4. [Project Documentation](#ProjectStructure)
 5. [Application Use](#usage)
 6. [References](#references)
 
