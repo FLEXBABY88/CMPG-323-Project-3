@@ -3,9 +3,10 @@
 1. [Introduction](#Introduction)
 2. [Link to Project](#Link)
 3. [Key Objectives](#Objectives)
-4. [Project Documentation](#ProjectStructure)
-5. [Application Use](#usage)
-6. [References](#references)
+4. [Project Structure](#Architecture)
+5. [User Account Creation](#Activation)
+6. [Application Use](#Usage)
+7. [References](#references)
 
 
 # Introduction
@@ -36,7 +37,7 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 |Leverage Cloud Technologies (Azure) | Utilize Azure services for deployment, management, and scalability of the application.|
 |Provide a Seamless User Experience | Ensure the application is user-friendly, responsive, and provides a smooth experience.|
 
-## Project Structure
+## Architecture
 - Mvc architecture: The application follows the Model-View-Controller pattern, separating concerns and improving maintainability.
 - CRUD operations: The application provides functionality to efficiently manage project and client data.
 - Authentication and security: Secure authentication mechanisms are implemented to protect sensitive information.
@@ -45,7 +46,7 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - Functional requirements: The system must perform CRUD operations on project and client data, ensuring that these operations are secure and reliable.
 - Non-functional requirements: The application should adhere to best practices concerning performance, scalability, and security. The code should be organized to facilitate easy maintenance and updates in the future.
 
-## User Account Creation 
+## Activation
 + When the application is launched, users are greeted with a welcome screen or directed to the home page. This page presents various options for exploration, as well as the ability to log in or register a new account.
 + ### To register a new account, follow these steps:
 1. Navigate to the home page of the application.
@@ -56,7 +57,7 @@ The application provides CRUD (Create, Read, Update, Delete) capabilities for pr
 - Upon successful registration you can log in to the application using your newly created credentials.
   - In the login process, you may notice a "Remember Me" checkbox. By selecting this option, you instruct the application to remember your username or email address and password for future sessions, alleviating the need to re-enter this information every time you visit the website. However, it is recommended to exercise caution when using this feature, especially when accessing the application from shared or public devices.
        
-## Usage of the project 
+## Usage 
 ### 1.Project management: 
 - Users can create, read, update, and delete project data, including details such as names, descriptions, statuses, start/end dates, and assigned clients.
 ### 2.Client management:
