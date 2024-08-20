@@ -1,4 +1,12 @@
 # cmpg-323-Project-3
+# Table of Content
+1. [Introduction](#Introduction)
+2. [Link to Project](#Link)
+3. [Key Objectives](##Objectives)
+4. [Project Documentation](#documentation)
+5. [Application Use](#usage)
+6. [References](#references)
+
 
 # Introduction
 This project involves upgrading an existing ASP.NET Core MVC web application by improving its architecture, implementing solid coding principles, and integrating design patterns tailored to the specific needs of the project. The objective is to create a more scalable, maintainable, and high-quality application.
@@ -10,7 +18,7 @@ Access at: [TelemetryPortal_MVC](https://42019222api20240812160846.azurewebsites
 
 The application provides CRUD (Create, Read, Update, Delete) capabilities for project and client data, offering a comprehensive and scalable solution for handling business activities.
 
-## Key Objectives
+## Objectives
 - Understand the existing architecture: Get a thorough understanding of the current codebase, including its structure, data flow, and technologies used.
 - Enhance the application: Add new features or improve existing functionality to increase the application's capabilities.
 - Apply best practices: Implement coding principles that promote maintainability, scalability, and security throughout the project.
