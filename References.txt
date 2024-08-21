@@ -1,0 +1,11 @@
+Dykstra, T. and Anderson, R., 2023. Tutorial: Get started with EF Core in an ASP.NET MVC web app. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-8.0 [Accessed 16 Aug. 2024].
+
+Anderson, R., Petersen, T., Addie, S., Schonning, N., Pasic, A. and Dykstra, T., 2023. ASP.NET MVC Overview. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-8.0[Accessed 16 Aug. 2024].
+
+Naik, K., 2023. Design Patterns In C# .NET. [online] Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 18 Aug. 2024].
+
+Velayutham, M., 2012. Architectural Patterns in .NET. [online] Available at: https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/ [Accessed 19 Aug. 2024].
+
+CMPG323, 2023. 6 September CMPG323 weekly virtual class Patterns demo from CMPG323 - IT Developments. [online] YouTube. Available at: https://www.youtube.com/watch?v=_5iD4efyeE8 [Accessed 16 Aug. 2024].
+
+CMPG323,5 September Patterns background +Web app demo from CMPG323 - IT Developments. [online] YouTube. Available at:https://www.youtube.com/watch?v=E8QQpncP9ts [Accessed 16 Aug. 2024].
