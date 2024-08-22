@@ -14,8 +14,8 @@ This project involves upgrading an existing ASP.NET Core MVC web application by 
 
 ![image](https://github.com/FLEXBABY88/CMPG-323-Project-3/blob/master/Screenshot%202024-08-19%20201549.png)
 
-# Link
-Access at: [TelemetryPortal_MVC](telemetryportalmvc20240821153509.azurewebsites.net)
+# Link https
+Access at: [TelemetryPortal_MVC](https://telemetryportalmvc20240821153509.azurewebsites.net)
 
 The application provides CRUD (Create, Read, Update, Delete) capabilities for project and client data, offering a comprehensive and scalable solution for handling business activities.
 
