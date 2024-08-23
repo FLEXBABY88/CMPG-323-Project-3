@@ -9,3 +9,22 @@ Velayutham, M., 2012. Architectural Patterns in .NET. [online] Available at: htt
 CMPG323, 2023. 6 September CMPG323 weekly virtual class Patterns demo from CMPG323 - IT Developments. [online] YouTube. Available at: https://www.youtube.com/watch?v=_5iD4efyeE8 [Accessed 16 Aug. 2024].
 
 CMPG323,5 September Patterns background +Web app demo from CMPG323 - IT Developments. [online] YouTube. Available at:https://www.youtube.com/watch?v=E8QQpncP9ts [Accessed 16 Aug. 2024].
+CS50. (2021) MVC. Available at: https://cs50.harvard.edu/ap/2021/curriculum/x/references/mvc.pdf (Accessed: 23 August 2024).
+
+Spring. (n.d.) Web MVC framework. Available at: https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html (Accessed: 23 August 2024).
+
+Fowler, M. (2002) Patterns of Enterprise Application Architecture. Addison-Wesley.
+Freeman, E. and Robson, E. (2014) Head First Design Patterns. 2nd edn. O’Reilly Media.
+Galloway, J., Wilson, P., Allen, B., Matson, D. and Hanz, K. (2014) Professional ASP.NET MVC 5. Wrox.
+Sanderson, S. (2011) Pro ASP.NET MVC 3 Framework. Apress.
+Esposito, D. (2018) Programming ASP.NET Core. Microsoft Press.
+Freeman, A. (2016) Pro ASP.NET Core MVC 2. Apress.
+Esposito, D. and Saltarello, A. (2014) Microsoft .NET: Architecting Applications for the Enterprise. 2nd edn. Microsoft Press.
+Shklar, L. and Rosen, R. (2009) Web Application Architecture: Principles, Protocols and Practices. 2nd edn. Wiley.
+MacDonald, M. (2017) Pro ASP.NET Core MVC. Apress.
+Freeman, A. (2019) Pro ASP.NET Core 3. Apress.
+Esposito, D. (2018) Modern Web Development: Understanding domains, technologies, and user experience. Microsoft Press.
+MyBib. (2024) Free Harvard Referencing Generator. Available at: https://www.mybib.com/tools/harvard-referencing-generator (Accessed: 23 August 2024).
+Scribbr. (2020) Reference a Website in Harvard Style. Available at: https://www.scribbr.co.uk/referencing/harvard-website-reference/ (Accessed: 23 August 2024).
+EasyBib. (2020) How to reference a website using the Harvard referencing style. Available at: https://www.easybib.com/guides/citation-guides/harvard-referencing/how-to-reference-a-website-harvard/ (Accessed: 23 August 2024).
+Galloway, J., Wilson, P., Allen, B., Matson, D. and Hanz, K. (2014) Professional ASP.NET MVC 5. Wrox.
