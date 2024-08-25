@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +12,7 @@ using TelemetryPortal_MVC.Repository;
 
 namespace TelemetryPortal_MVC.Controllers
 {
+    [Authorize]  
     public class ClientsController : Controller
     {
         private readonly TechtrendsContext _context;
@@ -21,9 +23,10 @@ namespace TelemetryPortal_MVC.Controllers
             _context = context;
             _clientRepository = clientRepository;
         }
-      
+
 
         // GET: Clients
+    
         public async Task<IActionResult> Index()
         {
             var results = _clientRepository.GetAll(); 
@@ -59,6 +62,7 @@ namespace TelemetryPortal_MVC.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+     
         public async Task<IActionResult> Create([Bind("ClientId,ClientName,PrimaryContactEmail,DateOnboarded")] Client client)
         {
             if (ModelState.IsValid)
