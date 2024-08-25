@@ -53,4 +53,4 @@ jobs:
           app-name: 'TelemetryPortalMVC20240821153509'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95EFC343AE9B4759AE521A35EB2D3849 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE1E1B2F18DB4C429A7995EA5534F017 }}
