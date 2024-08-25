@@ -6,7 +6,7 @@
 4. [Project Structure](#Architecture)
 5. [User Account Creation](#Activation)
 6. [Application Use](#Usage)
-7. [References](#references)
+7. [References](#Reference)
 
 
 # Introduction
